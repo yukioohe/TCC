@@ -52,6 +52,6 @@ class ad9850:
             self.sig_w_clk()
         self.sig_fq_ud()
         self.down()
-
+    
 
 
