@@ -3,7 +3,7 @@
 # * | Author      :   Waveshare team
 # * | Function    :   Hardware underlying interface
 # * | Info        :
-# *----------------
+# *---------------- 
 # * |	This version:   V1.0
 # * | Date        :   2019-01-24
 # * | Info        :   

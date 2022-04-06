@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import RPi.GPIO as gpio
 import time
-
+ 
 
 class ad9850:
     def __init__(self, pin_fq_ud, pin_w_clk, pin_d7, pin_reset, clk_freq):

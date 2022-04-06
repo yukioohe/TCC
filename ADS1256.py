@@ -1,7 +1,7 @@
 import config
 import RPi.GPIO as GPIO
 
-
+ 
 ScanMode = 0
 
 
